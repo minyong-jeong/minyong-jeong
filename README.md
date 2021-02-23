@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center" style="font-size: 22px">
     Hello! 👋 I'm Minyong Jeong
-</h1>
+</p>
 <p align="center">A Software Engineer in Seoul, Korea.</P>
 <p align="center">
     <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%9A%A9-%EC%A0%95-605408147/?locale=en_US">
