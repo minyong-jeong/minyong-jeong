@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
     Hello! 👋 I'm Minyong Jeong
-</h1>
+</h2>
 <p align="center">Software Engineer in Seoul, Korea</P>
 <p align="center">
     <a href="https://www.linkedin.com/in/%EB%AF%BC%EC%9A%A9-%EC%A0%95-605408147/?locale=en_US">
@@ -11,5 +11,6 @@
     </a>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyong-jeong&layout=compact&theme=dark" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minyong-jeong&layout=compact&theme=dark" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=minyong-jeong&show_icons=true&theme=dark" height="150"/>
 </p>
